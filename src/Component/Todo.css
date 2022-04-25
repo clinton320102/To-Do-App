@@ -1,0 +1,26 @@
+
+.todo {
+  margin: .5rem;
+  background-color: floralwhite;
+  padding: .5rem .8rem;
+  border-radius: .7rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.delete__button {
+  font-size: 20px;
+  cursor: pointer;
+  color: red;
+}
+
+.delete__button:hover {
+  font-size: 22px;
+}
+
+.date {
+  font-size: 12px;
+  margin-top: 5px;
+}
+
